@@ -8,6 +8,6 @@ public class Signup {
   }
 
   public void testcase2(){
-    System.out.println("No");
+    System.out.println("No 2");
   }
 }
