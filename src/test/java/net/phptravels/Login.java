@@ -11,20 +11,12 @@ public class Login {
         System.out.println("hello adventus");
         System.out.println("hello adventus3");
         System.out.println("hello adventus4");
-        System.out.println("hello adventus5-local");
         System.out.println("hello adventus5-remote");
         System.out.println("git done-remote");
         System.out.println("git done local -1");
+        System.out.println("git done-remote -2");
         System.out.println("git done local -2");
-
-
-
-
-
-
-
-
-
+        
 
     }
 }
